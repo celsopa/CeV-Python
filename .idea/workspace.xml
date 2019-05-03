@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522c933f-9b7a-4f09-b618-d5f0c9bf16bb" name="Default Changelist" comment="Criados os exercícios 002 e 025.">
-      <change afterPath="$PROJECT_DIR$/mundo01/ex026.py" afterDir="false" />
+    <list default="true" id="522c933f-9b7a-4f09-b618-d5f0c9bf16bb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +73,7 @@
         <option value="$PROJECT_DIR$/mundo01/ex033.py" />
         <option value="$PROJECT_DIR$/mundo01/ex034.py" />
         <option value="$PROJECT_DIR$/mundo01/ex035.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -119,11 +120,6 @@
               <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
-              <item name="mundo01" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -141,6 +137,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\CeV-Python\mundo02" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\CeV-Python\mundo01" />
       <recent name="D:\PycharmProjects\CeV-Python" />
@@ -294,7 +293,7 @@
       <workItem from="1556800193291" duration="21459000" />
       <workItem from="1556839292666" duration="5306000" />
       <workItem from="1556847037097" duration="14000" />
-      <workItem from="1556848735857" duration="3943000" />
+      <workItem from="1556848735857" duration="6157000" />
     </task>
     <task id="LOCAL-00001" summary="Criados os exercícios 002 e 003.">
       <created>1556762202774</created>
@@ -310,17 +309,31 @@
       <option name="project" value="LOCAL" />
       <updated>1556830701511</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criados os exercícios 026 a 035.">
+      <created>1556852892855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556852892855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Editado o arquivo README.md">
+      <created>1556853486861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556853486861</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32964000" />
+    <option name="totallyTimeSpent" value="35178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17024128" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17024128" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32894737" />
@@ -330,7 +343,7 @@
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49865952" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49865952" visible="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -412,7 +425,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criados os exercícios 002 e 003." />
     <MESSAGE value="Criados os exercícios 004 a 025." />
-    <option name="LAST_COMMIT_MESSAGE" value="Criados os exercícios 004 a 025." />
+    <MESSAGE value="Criados os exercícios 026 a 035." />
+    <MESSAGE value="Editado o arquivo README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Editado o arquivo README.md" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CeV_Python$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1556801774298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
@@ -630,27 +645,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex036.py">
+    <entry file="file://$PROJECT_DIR$/mundo02/ex036.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex037.py">
+    <entry file="file://$PROJECT_DIR$/mundo02/ex037.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex038.py">
+    <entry file="file://$PROJECT_DIR$/mundo02/ex038.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex039.py">
+    <entry file="file://$PROJECT_DIR$/mundo02/ex039.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex040.py">
+    <entry file="file://$PROJECT_DIR$/mundo02/ex040.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex025.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="73" lean-forward="true" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mundo01/ex027.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -663,13 +671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mundo01/ex026.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -708,6 +709,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/mundo01/ex034.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -717,8 +725,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mundo01/ex035.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="308">
           <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="73" lean-forward="true" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
