@@ -13,7 +13,7 @@ if fabs(b - c) < a < (b + c) and fabs(a - c) < b < (a + c) and fabs(b - a) < c <
     # Classificação quanto aos lados
     if a == b == c:
         print("O triângulo formado é EQUILÁTERO.")
-    elif a != b != c:
+    elif a != b != c != a:
         print("O triângulo formado é ESCALENO.")
     else:
         print("O triângulo formado é ISÓSCELES.")
