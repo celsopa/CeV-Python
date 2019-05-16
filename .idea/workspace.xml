@@ -1,16 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="5a591f02-aea7-43f9-a39b-24d9a8dc6870" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="522c933f-9b7a-4f09-b618-d5f0c9bf16bb" name="Default Changelist" comment="Adicionado o logotipo p">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 4088fa24efd0b2af290f9acd1f802c1c75015ad1
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+=======
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.2f}</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Celso Araujo &lt;celsopa@msn.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mundo01/ex023.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex024.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex0025.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex026.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex027.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex028.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex029.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex030.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex031.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex032.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex033.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex034.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/mundo02/ex036.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex037.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex038.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex039.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex040.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex041.py" />
+        <option value="$PROJECT_DIR$/mundo01/ex035.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex042.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex043.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex044.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex045.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex046.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex047.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex048.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex049.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex050.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex051.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex052.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex053.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex054.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex055.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex056.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex057.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex058.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex059.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex06.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex060.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex061.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex062.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex063.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex064.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex065.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex066.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex067.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex068.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex069.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex070.py" />
+        <option value="$PROJECT_DIR$/mundo02/ex071.py" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 4088fa24efd0b2af290f9acd1f802c1c75015ad1
   <component name="JsBowerSettings">
     <node-interpreter value="project" />
     <bower-package value="" />
@@ -22,11 +111,65 @@
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/CeV-Python.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/portuguese-brazil_without-accents.dic" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mundo02" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\CeV-Python\mundo02" />
+      <recent name="D:\PycharmProjects\CeV-Python\mundo01" />
+      <recent name="D:\PycharmProjects\CeV-Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\CeV-Python\mundo02" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,12 +183,134 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.ex071">
+    <configuration name="ex067" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo02/ex067.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex068" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo02/ex068.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex069" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo02/ex069.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex070" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo02/ex070.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex071" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CeV-Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo02/ex071.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex071" />
+        <item itemvalue="Python.ex070" />
+        <item itemvalue="Python.ex069" />
+        <item itemvalue="Python.ex068" />
+        <item itemvalue="Python.ex067" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="4" Folder0="C:\Program Files\JetBrains\PyCharm 2019.1.1" Folder1="C:\Program Files\JetBrains\PyCharm 2019.1.1" Folder2="C:\Program Files\JetBrains\PyCharm 2019.1.1" Folder3="C:\Program Files\JetBrains\PyCharm 2019.1.1" CustomDictionaries="4" CustomDictionary0="C:\Program Files\JetBrains\PyCharm 2019.1.1\portuguese-brazil.dic" CustomDictionary1="C:\Program Files\JetBrains\PyCharm 2019.1.1\portuguese-brazil_technical-terms.dic" CustomDictionary2="C:\Program Files\JetBrains\PyCharm 2019.1.1\portuguese-brazil_technical-terms_without-accents.dic" CustomDictionary3="C:\Program Files\JetBrains\PyCharm 2019.1.1\portuguese-brazil_without-accents.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="5a591f02-aea7-43f9-a39b-24d9a8dc6870" name="Default Changelist" comment="" />
       <created>1557965478818</created>
       <option name="number" value="Default" />
@@ -57,10 +322,73 @@
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="272000" />
+=======
+      <changelist id="522c933f-9b7a-4f09-b618-d5f0c9bf16bb" name="Default Changelist" comment="" />
+      <created>1556760044430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556760044430</updated>
+      <workItem from="1556760045727" duration="2242000" />
+      <workItem from="1556800193291" duration="21459000" />
+      <workItem from="1556839292666" duration="5306000" />
+      <workItem from="1556847037097" duration="14000" />
+      <workItem from="1556848735857" duration="7898000" />
+      <workItem from="1556875326524" duration="3639000" />
+      <workItem from="1556899234845" duration="2193000" />
+      <workItem from="1557074782596" duration="4057000" />
+      <workItem from="1557102338473" duration="3799000" />
+      <workItem from="1557160082426" duration="7153000" />
+      <workItem from="1557258559093" duration="1910000" />
+      <workItem from="1557267042460" duration="493000" />
+      <workItem from="1557951715191" duration="8351000" />
+      <workItem from="1557964354979" duration="271000" />
+    </task>
+    <task id="LOCAL-00001" summary="Criados os exercícios 002 e 003.">
+      <created>1556762202774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1556762202774</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Criados os exercícios 004 a 025.">
+      <created>1556830701511</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1556830701511</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Criados os exercícios 026 a 035.">
+      <created>1556852892855</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1556852892855</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Editado o arquivo README.md">
+      <created>1556853486861</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1556853486861</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adicionado o logotipo Python, formato *.gif">
+      <created>1556855046602</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1556855046602</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68785000" />
+>>>>>>> 4088fa24efd0b2af290f9acd1f802c1c75015ad1
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
+<<<<<<< HEAD
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -83,8 +411,538 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+=======
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.18766756" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5013405" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.57894737" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49865952" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18498659" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5013405" side_tool="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.57894737" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49865952" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout-to-restore>
+>>>>>>> 4088fa24efd0b2af290f9acd1f802c1c75015ad1
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="celsopa" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criados os exercícios 002 e 003." />
+    <MESSAGE value="Criados os exercícios 004 a 025." />
+    <MESSAGE value="Criados os exercícios 026 a 035." />
+    <MESSAGE value="Editado o arquivo README.md" />
+    <MESSAGE value="Adicionado o logotipo Python, formato *.gif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionado o logotipo Python, formato *.gif" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CeV_Python$ex036.coverage" NAME="ex036 Coverage Results" MODIFIED="1556876010437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex039.coverage" NAME="ex039 Coverage Results" MODIFIED="1556901576780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1556850305525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex048.coverage" NAME="ex048 Coverage Results" MODIFIED="1557102978985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex042.coverage" NAME="ex042 Coverage Results" MODIFIED="1557075553466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1556840417423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex051.coverage" NAME="ex051 Coverage Results" MODIFIED="1557104321454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex045.coverage" NAME="ex045 Coverage Results" MODIFIED="1557077765454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex015.coverage" NAME="ex015 Coverage Results" MODIFIED="1556810475945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex0025.coverage" NAME="ex0025 Coverage Results" MODIFIED="1556830378018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1556807680721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1556762015387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1556812371074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1556816292795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex024.coverage" NAME="ex024 Coverage Results" MODIFIED="1556829470361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1556848944308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1556802415086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1556839533707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex055.coverage" NAME="ex055 Coverage Results" MODIFIED="1557163101393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1556810248061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1556813808074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex0012.coverage" NAME="ex0012 Coverage Results" MODIFIED="1556809280963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex067.coverage" NAME="ex067 Coverage Results" MODIFIED="1557955654300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1556807124888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1556849961051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex049.coverage" NAME="ex049 Coverage Results" MODIFIED="1557103223770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex060.coverage" NAME="ex060 Coverage Results" MODIFIED="1557259902581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex054.coverage" NAME="ex054 Coverage Results" MODIFIED="1557162169041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex031.coverage" NAME="ex031 Coverage Results" MODIFIED="1556849311041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex037.coverage" NAME="ex037 Coverage Results" MODIFIED="1556878420316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex061.coverage" NAME="ex061 Coverage Results" MODIFIED="1557260012028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1556812750167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1556761916591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex043.coverage" NAME="ex043 Coverage Results" MODIFIED="1557076337351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex066.coverage" NAME="ex066 Coverage Results" MODIFIED="1557955347650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1556801774298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1556804182968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex068.coverage" NAME="ex068 Coverage Results" MODIFIED="1557956347848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1556761208275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex065.coverage" NAME="ex065 Coverage Results" MODIFIED="1557954983905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex050.coverage" NAME="ex050 Coverage Results" MODIFIED="1557103580863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex059.coverage" NAME="ex059 Coverage Results" MODIFIED="1557172749027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1556808257930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1556809697881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex041.coverage" NAME="ex041 Coverage Results" MODIFIED="1557075206037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex044.coverage" NAME="ex044 Coverage Results" MODIFIED="1557076955508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1557075611671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex053.coverage" NAME="ex053 Coverage Results" MODIFIED="1557160959057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex056.coverage" NAME="ex056 Coverage Results" MODIFIED="1557170662300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex071.coverage" NAME="ex071 Coverage Results" MODIFIED="1557963252342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex047.coverage" NAME="ex047 Coverage Results" MODIFIED="1557078734651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex062.coverage" NAME="ex062 Coverage Results" MODIFIED="1557952485301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$questao1.coverage" NAME="questao1 Coverage Results" MODIFIED="1556761110187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex052.coverage" NAME="ex052 Coverage Results" MODIFIED="1557104998768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1556841335638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex046.coverage" NAME="ex046 Coverage Results" MODIFIED="1557078097675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex064.coverage" NAME="ex064 Coverage Results" MODIFIED="1557954159686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1556811350762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1556828904988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex058.coverage" NAME="ex058 Coverage Results" MODIFIED="1557171926977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex070.coverage" NAME="ex070 Coverage Results" MODIFIED="1557962008538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1556840604989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex057.coverage" NAME="ex057 Coverage Results" MODIFIED="1557171285501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex063.coverage" NAME="ex063 Coverage Results" MODIFIED="1557953531455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1556826781788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1556802113512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1556810623382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1556808891183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex040.coverage" NAME="ex040 Coverage Results" MODIFIED="1556901924479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex069.coverage" NAME="ex069 Coverage Results" MODIFIED="1557957013123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo02" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1556850719086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo01" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mundo01/ex024.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex027.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex028.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex029.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex030.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex031.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex032.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex033.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex034.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex025.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="73" lean-forward="true" selection-start-line="3" selection-start-column="73" selection-end-line="3" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="126">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex037.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex038.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex039.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex036.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex040.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex035.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-23">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex043.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex042.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex041.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex044.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex045.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex046.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex047.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex048.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="87" lean-forward="true" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex049.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo01/ex009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="2" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex050.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex052.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex053.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex054.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex055.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex056.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex057.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex058.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex059.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex060.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex051.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex061.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex062.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex065.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="12" lean-forward="true" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex063.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex064.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex066.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex067.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex068.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex069.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex070.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo02/ex071.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/et HEAD@{1}">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+>>>>>>> 4088fa24efd0b2af290f9acd1f802c1c75015ad1
 </project>
