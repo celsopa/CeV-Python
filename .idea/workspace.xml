@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa8ab4fe-35a0-4203-b23c-452aa36f6234" name="Default Changelist" comment="" />
+    <list default="true" id="aa8ab4fe-35a0-4203-b23c-452aa36f6234" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mundo03/ex112.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/utilidadesCeV/dado/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mundo03/ex113.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -47,6 +97,20 @@
         <option value="$PROJECT_DIR$/mundo03/ex104.py" />
         <option value="$PROJECT_DIR$/mundo03/ex105.py" />
         <option value="$PROJECT_DIR$/mundo03/ex106.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/modulos/numeros.py" />
+        <option value="$PROJECT_DIR$/modulos/myfunc.py" />
+        <option value="$PROJECT_DIR$/meuspacotes/moeda/moeda.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex111.py" />
+        <option value="$PROJECT_DIR$/utilidadesCeV/dado/dado.py" />
+        <option value="$PROJECT_DIR$/utilidadesCeV/moeda/moeda.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex108.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex109.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex107.py" />
+        <option value="$PROJECT_DIR$/utilidadesCeV/moeda/__init__.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex110.py" />
+        <option value="$PROJECT_DIR$/mundo03/ex112.py" />
+        <option value="$PROJECT_DIR$/utilidadesCeV/dado/__init__.py" />
       </list>
     </option>
   </component>
@@ -76,6 +140,17 @@
               <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
               <item name="mundo03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="utilidadesCeV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CeV-Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CeV-Python" type="462c0819:PsiDirectoryNode" />
+              <item name="utilidadesCeV" type="462c0819:PsiDirectoryNode" />
+              <item name="dado" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,8 +185,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ex106">
-    <configuration name="ex102" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.__init__">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,12 +194,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilidadesCeV/dado" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex102.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilidadesCeV/dado/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +208,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex103" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dado" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,12 +216,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mundo03" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utilidadesCeV/dado" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex103.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utilidadesCeV/dado/dado.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex104" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex107" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,7 +243,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex104.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex107.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex105" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex110" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +265,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex105.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex110.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ex112" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CeV-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,7 +287,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex106.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mundo03/ex112.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex106" />
-        <item itemvalue="Python.ex104" />
-        <item itemvalue="Python.ex105" />
-        <item itemvalue="Python.ex103" />
-        <item itemvalue="Python.ex102" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.ex112" />
+        <item itemvalue="Python.ex110" />
+        <item itemvalue="Python.ex107" />
+        <item itemvalue="Python.dado" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +322,12 @@
       <workItem from="1558138288238" duration="9540000" />
       <workItem from="1558195312600" duration="2784000" />
       <workItem from="1558198213389" duration="17038000" />
-      <workItem from="1558262605164" duration="872000" />
+      <workItem from="1558262605164" duration="10880000" />
+      <workItem from="1558275752664" duration="1176000" />
+      <workItem from="1558306029395" duration="1245000" />
+      <workItem from="1558438004931" duration="6169000" />
+      <workItem from="1558475798957" duration="81000" />
+      <workItem from="1558977130811" duration="223000" />
     </task>
     <task id="LOCAL-00001" summary="Atualizada a lista de exercícios. Do 81 ao 106.">
       <created>1558262723360</created>
@@ -256,39 +336,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558262723360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore">
+      <created>1558263684461</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263684461</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38486000" />
+    <option name="totallyTimeSpent" value="57388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2997076" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32894737" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,7 +367,30 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32894737" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.5482456" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21581769" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2997076" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32894737" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32894737" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -316,28 +404,37 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Atualizada a lista de exercícios. Do 81 ao 106." />
-    <option name="LAST_COMMIT_MESSAGE" value="Atualizada a lista de exercícios. Do 81 ao 106." />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CeV_Python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1558977337302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilidadesCeV/dado" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex094.coverage" NAME="ex094 Coverage Results" MODIFIED="1558142589145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex097.coverage" NAME="ex097 Coverage Results" MODIFIED="1558196270697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex091.coverage" NAME="ex091 Coverage Results" MODIFIED="1558122647927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex105.coverage" NAME="ex105 Coverage Results" MODIFIED="1558227152897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex102.coverage" NAME="ex102 Coverage Results" MODIFIED="1558222822879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex110.coverage" NAME="ex110 Coverage Results" MODIFIED="1558439637938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex101.coverage" NAME="ex101 Coverage Results" MODIFIED="1558217133462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex107.coverage" NAME="ex107 Coverage Results" MODIFIED="1558272416566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex088.coverage" NAME="ex088 Coverage Results" MODIFIED="1558117631404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex104.coverage" NAME="ex104 Coverage Results" MODIFIED="1558228835253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$dado.coverage" NAME="dado Coverage Results" MODIFIED="1558272166961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utilidadesCeV/dado" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex112.coverage" NAME="ex112 Coverage Results" MODIFIED="1558977202933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex106.coverage" NAME="ex106 Coverage Results" MODIFIED="1558228957480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex109.coverage" NAME="ex109 Coverage Results" MODIFIED="1558269615518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex099.coverage" NAME="ex099 Coverage Results" MODIFIED="1558214046986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex096.coverage" NAME="ex096 Coverage Results" MODIFIED="1558195561394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex092.coverage" NAME="ex092 Coverage Results" MODIFIED="1558124035351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
-    <SUITE FILE_PATH="coverage/CeV_Python$ex102.coverage" NAME="ex102 Coverage Results" MODIFIED="1558222822879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex095.coverage" NAME="ex095 Coverage Results" MODIFIED="1558145141693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
-    <SUITE FILE_PATH="coverage/CeV_Python$ex101.coverage" NAME="ex101 Coverage Results" MODIFIED="1558217133462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex089.coverage" NAME="ex089 Coverage Results" MODIFIED="1558120036095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex103.coverage" NAME="ex103 Coverage Results" MODIFIED="1558223752628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
-    <SUITE FILE_PATH="coverage/CeV_Python$ex088.coverage" NAME="ex088 Coverage Results" MODIFIED="1558117631404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$moeda.coverage" NAME="moeda Coverage Results" MODIFIED="1558271020368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/meuspacotes/moeda" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex090.coverage" NAME="ex090 Coverage Results" MODIFIED="1558121233142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex093.coverage" NAME="ex093 Coverage Results" MODIFIED="1558139668932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex100.coverage" NAME="ex100 Coverage Results" MODIFIED="1558216434375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
     <SUITE FILE_PATH="coverage/CeV_Python$ex098.coverage" NAME="ex098 Coverage Results" MODIFIED="1558198771607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
-    <SUITE FILE_PATH="coverage/CeV_Python$ex104.coverage" NAME="ex104 Coverage Results" MODIFIED="1558228835253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
+    <SUITE FILE_PATH="coverage/CeV_Python$ex108.coverage" NAME="ex108 Coverage Results" MODIFIED="1558268629895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mundo03" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mundo03/ex087.py">
@@ -425,12 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo03/ex108.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mundo03/ex109.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mundo03/ex100.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -502,9 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mundo03/ex107.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/mundo03/ex106.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -514,8 +602,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modulos/myfunc.py" />
+    <entry file="file://$PROJECT_DIR$/mundo03/ex111.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilidadesCeV/dado/dado.py" />
+    <entry file="file://$PROJECT_DIR$/utilidadesCeV/moeda/moeda.py" />
+    <entry file="file://$PROJECT_DIR$/mundo03/ex109.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo03/ex108.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo03/ex107.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilidadesCeV/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilidadesCeV/moeda/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="79" column="19" selection-start-line="79" selection-start-column="19" selection-end-line="79" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo03/ex110.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo03/ex113.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mundo03/ex112.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilidadesCeV/dado/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
